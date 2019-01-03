@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="/InstructionCompiler/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/InstructionCompiler/lib/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/InstructionCompiler/lib/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/InstructionCompiler/lib/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/InstructionCompiler/lib/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/InstructionCompiler/lib/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="/InstructionCompiler/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="/Users/Panwar/eclipse-workspace/IntegratedTool-1.0/lib/freetts.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

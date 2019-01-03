@@ -1,0 +1,17 @@
+<script type="text/javascript">  
+function msg(){  
+var v= confirm("Are u sure?");  
+if(v==true){  
+alert("ok");  
+}  
+else{  
+alert("cancel");  
+}  
+  
+}  
+</script>  
+  
+<input type="button" value="delete record" onclick="msg()"/>  
+
+
+<a href="Second.jsp">click me</a>

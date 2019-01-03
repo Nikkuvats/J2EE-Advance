@@ -1,0 +1,8 @@
+channels/340808/publish/EKNVV8HKUDKP8PMD
+
+field1=100
+mqtt.thingspeak.com:1883
+
+Set the PUBLISH messages to have a QoS value of 0.
+Set the connection RETAIN flag to 0.
+Set the connection CleanSession flag to 1.
